@@ -7,14 +7,23 @@
 body {
 	font-size: 1em;
 	font-family: "Trebuchet MS", Helvetica, sans-serif;
-	background: #e6e6e6;
+	background: #F2E5D5;
 }
 
 /*
 **** Layout ****
 */
+#jogos-pagina{
+    text-align: center;
+    background: #1D2F40;
+    color: white;
+    padding: 10px;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
 #area-cabecalho {
-	background-color: #f7b600;
+	background-color: #BF3604;
 	padding: 15px;
 	text-align: center;
 }
@@ -54,7 +63,7 @@ body {
 .postagem-lateral {
 	font-size: 0.8em;
 	padding: 5px;
-	border-bottom: 1px dotted #CCC;
+	border-bottom: 1px dotted #1D2F40;
 }
 
 #rodape {
@@ -72,7 +81,7 @@ a {
 }
 
 a:link, a:visited {
-	color: #f7b600;
+	color: #BF3604;
 }
 
 a:hover {
@@ -85,7 +94,7 @@ a:hover {
 }
 
 #area-cabecalho a:hover {
-	color: #f7b600;
+	color: #1D2F40  ;
 	background: #FFF;
 	text-decoration: none;
 }
@@ -94,17 +103,17 @@ a:hover {
 **** Formatações em geral ****
 */
 h1 {
-	color: #4e4e4e;
+	color: #1D2F40;
 	font-size: 2.5em;
 }
 
 h2 {
-	color: #f7b600;
+	color: #BF3604;
 }
 
 h3 {
-	color: #565656;
-	background: #CCC;
+	color: #F2E5D5;
+	background:#1D2F40;
 	padding: 5px;
 }
 
