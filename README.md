@@ -1,5 +1,7 @@
 # Site tec Blog
 This is a small project of the one blog for traine my skill an HTMl and CSS.
+
+![Imagem Site](https://github.com/Shift-ky/TEC-Blog/blob/master/imagens/Captura%20de%20tela_20221023_145737.png?raw=true)
 ## Technology
 * HTML5
 * CSS 3
